@@ -2,6 +2,8 @@
 
 This project is a **Retrieval-Augmented Generation (RAG) chatbot** built in Python. It allows you to query the "Attention Is All You Need" paper directly from the terminal. The chatbot leverages **LangChain**, **ChromaDB**, and **all-MiniLM-L6-v2 embeddings** to provide relevant answers using a **Google Gemini Flash 2.5 Lite LLM**.
 
+![Alt text](terminal-snapshot.png)
+
 ---
 
 ## Features
